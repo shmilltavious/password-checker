@@ -1,11 +1,10 @@
-Here's a revised README file for your password checker application, reflecting that you've already created a standalone executable:
 
 ---
 
 # Password Strength Checker
 
 ## Overview
-The Password Strength Checker is a Python application designed to evaluate the strength of user-entered passwords. It provides real-time feedback on password strength, generates strong password suggestions, and allows users to save their suggested passwords to a file.
+The Password Strength Checker is a Python application designed to evaluate the strength of user-entered passwords. It provides real-time feedback on password strength, generates strong password suggestions, and allows users to save their suggested passwords to a file. (Currently only compatible with MacOS systems.
 
 ## Features
 - **Password Strength Evaluation**: Assess the strength of a password based on length, character diversity, and composition.
